@@ -3,6 +3,8 @@
 **Team SPAM** — Sarah, Pawan, Ammad, Maryam 
 *Data Engineering Bootcamp — Final Project*
 
+> **Team project.** Built by a four-person team on the DE-NAT4 Data Engineering bootcamp. Sarah's part: [describe your contributions here once confirmed]. This repository is a fork of the team's original repo.
+
 ---
 
 ## What This Project Does
